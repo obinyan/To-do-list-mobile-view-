@@ -13,15 +13,22 @@
     color: #000000;
     font-family: "Inter", sans-serif;
     font-size: 40px;
+    margin-top: 15px;
 }
 .to-do-container-month{
-    margin: 0 auto;
     color: #000000;
+    margin-top: 10px;
 }
 
 .to-do-container-month > div > h2{
     font-family: "Inter", sans-serif;
-    font-size: 30px;
+    font-size: 20px;
+    font-weight: 100;
+    text-align: center;
+}
+
+.to-do-container-month > div > form{
+    margin: 0 auto;
 }
 
 .to-do-container-month > div > form > input{
