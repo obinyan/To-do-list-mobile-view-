@@ -43,6 +43,9 @@
     border: #000000 5px;
     margin-top: 25px;
     margin-left: 50px;
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
 }
 
 /** styling for the first box (todo) **/
@@ -58,6 +61,7 @@
 
 .to-do-container-box-1 > div > form{
     border: #000000 solid;
+    width: 300px;
 }
 
 .to-do-container-box-1 > div > form > input{
