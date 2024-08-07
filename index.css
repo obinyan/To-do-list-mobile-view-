@@ -73,3 +73,9 @@
     margin-left: 25px;
     width: 200px;
 }
+
+/** increase the size of the check-box **/
+.larger{
+       width: 20px;
+       height: 20px; 
+}
