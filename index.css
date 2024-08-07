@@ -42,7 +42,7 @@
 .to-do-container-button > div{
     border: #000000 5px;
     margin-top: 25px;
-    margin-left: 50px;
+    margin-left: 65px;
     display: flex;
     flex-direction: row;
     gap: 5px;
@@ -61,7 +61,8 @@
 
 .to-do-container-box-1 > div > form{
     border: #000000 solid;
-    width: 300px;
+    width: 250px;
+    height: 600px;
 }
 
 .to-do-container-box-1 > div > form > input{
