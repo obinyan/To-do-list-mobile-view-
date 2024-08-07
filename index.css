@@ -56,19 +56,20 @@
 .to-do-container-box-1 > div > h3{
     font-size: 20px;
     font-family: "Inter", sans-serif;
-    margin-left: 30px;
+    margin-left: 45px;
 }
 
 .to-do-container-box-1 > div > form{
     border: #000000 solid;
-    width: 300px;
+    width: 320px;
     height: 700px;
-    margin-left: 20px;
+    margin-left: 35px;
 }
 
 .to-do-container-box-1 > div > form > input{
     border-top: none;
     border-left: none;
     border-right: none;
-    margin-left: 5px;
+    margin-left: 10px;
+    width: 200px;
 }
