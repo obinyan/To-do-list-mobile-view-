@@ -27,7 +27,7 @@
 }
 
 .to-do-container-month > div > form{
-    justify-content: center;
+    margin-left: 50px;
 }
 
 .to-do-container-month > div > form > input{
@@ -37,6 +37,7 @@
 
 .to-do-container-button{
     background-color: #ffffff;
-    border-color: #ffffff;
-    margin-top: 10px;
+    border-color: #000000;
+    margin-top: 20px;
+    margin-left: 25px;
 }
