@@ -23,15 +23,20 @@
 .to-do-container-month > div > h2{
     font-family: "Inter", sans-serif;
     font-size: 20px;
-    font-weight: 100;
     text-align: center;
 }
 
 .to-do-container-month > div > form{
-    margin: 0 auto;
+    justify-content: center;
 }
 
 .to-do-container-month > div > form > input{
-    width: 200px;
+    width: 150px;
     margin-top: 5px;
+}
+
+.to-do-container-button{
+    background-color: #ffffff;
+    border-color: #ffffff;
+    margin-top: 10px;
 }
