@@ -30,7 +30,7 @@
 }
 
 .to-do-container-month > div > form{
-    margin-left: 145px;
+    margin-left: 135px;
 }
 
 .to-do-container-month > div > form > input{
@@ -42,7 +42,7 @@
 .to-do-container-button > div{
     border: #000000 5px;
     margin-top: 25px;
-    margin-left: 90px;
+    margin-left: 50px;
 }
 
 /** styling for the first box (todo) **/
@@ -57,7 +57,7 @@
 }
 
 .to-do-container-box-1 > div > form{
-    border: #000000 5px;
+    border: #000000 solid;
 }
 
 .to-do-container-box-1 > div > form > input{
