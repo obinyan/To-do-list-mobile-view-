@@ -59,14 +59,20 @@
     margin-left: 45px;
 }
 
-.to-do-container-box-1 > div > form{
+.to-do-container-box-1-b{
     border: #000000 solid;
     width: 320px;
     height: 700px;
     margin-left: 35px;
 }
 
-.to-do-container-box-1 > div > form > input{
+.to-do-container-box-1-b > form{
+    display: flex;
+    flex-direction: row;
+    gap: 2px;
+}
+
+.to-do-container-box-1-b > form > input{
     border-top: none;
     border-left: none;
     border-right: none;
