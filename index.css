@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.to-do-container{
+    background-color: #ffffff;
+    color: black;
+}
+
+.to-do-container-heading > h1{
+    text-align: center;
+    color: #000000;
+    font-family: "Inter", sans-serif;
+    font-size: 40px;
+}
+.to-do-container-month{
+    margin: 0 auto;
+    color: #000000;
+}
+
+.to-do-container-month > div > h2{
+    font-family: "Inter", sans-serif;
+    font-size: 30px;
+}
+
+.to-do-container-month > div > form > input{
+    width: 200px;
+    margin-top: 5px;
+}
