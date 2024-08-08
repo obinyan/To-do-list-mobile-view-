@@ -75,7 +75,7 @@
     display: flex;
     flex-direction: row;
     gap: -25px;
-    margin-left: -25px;
+    margin-top: 15px;
 }
 
 .to-do-container-box-1-b > form > input{
@@ -83,7 +83,7 @@
     border-left: none;
     border-right: none;
     margin-left: 25px;
-    width: 200px;
+    
 }
 
 /** increase the size of the check-box **/
