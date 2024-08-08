@@ -30,7 +30,7 @@
 }
 
 .to-do-container-month > div > form{
-    margin-left: 115px;
+    margin-left: 100px;
 }
 
 .to-do-container-month > div > form > input{
@@ -42,7 +42,7 @@
 .to-do-container-button > div{
     border: #000000 5px;
     margin-top: 25px;
-    margin-left: 65px;
+    margin-left: 45px;
     display: flex;
     flex-direction: row;
     gap: 5px;
@@ -61,15 +61,16 @@
 
 .to-do-container-box-1-b{
     border: #000000 solid;
-    width: 320px;
+    width: 300px;
     height: 700px;
-    margin-left: 35px;
+    margin-left: 25px;
 }
 
 .to-do-container-box-1-b > form{
     display: flex;
     flex-direction: row;
-    
+    gap: -5px;
+    margin-left: -5px;
 }
 
 .to-do-container-box-1-b > form > input{
