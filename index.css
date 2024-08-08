@@ -48,6 +48,11 @@
     gap: 5px;
 }
 
+.to-do-container-button > div > button{
+    background-color: #000000;
+    color: #ffffff;
+}
+
 /** styling for the first box (todo) **/
 .to-do-container-box-1{
     margin-top: 30px;
