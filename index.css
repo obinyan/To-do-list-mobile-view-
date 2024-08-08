@@ -69,7 +69,7 @@
 .to-do-container-box-1-b > form{
     display: flex;
     flex-direction: row;
-    gap: 3px;
+    
 }
 
 .to-do-container-box-1-b > form > input{
