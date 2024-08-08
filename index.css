@@ -74,8 +74,8 @@
 .to-do-container-box-1-b > form{
     display: flex;
     flex-direction: row;
-    gap: -5px;
-    margin-left: -5px;
+    gap: -25px;
+    margin-left: -25px;
 }
 
 .to-do-container-box-1-b > form > input{
