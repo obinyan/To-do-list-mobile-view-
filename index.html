@@ -28,17 +28,17 @@
                 </div>
                 <div class="to-do-container-button">
                     <div>
-                        <button>TO-DO</button>
+                        <button onclick="showContent('box1')">TO-DO</button>
                         <br>
-                        <button>PRIORITIES</button>
+                        <button onclick="showContent('box2')">PRIORITIES</button>
                         <br>
-                        <button>REMINDER</button>
+                        <button onclick="showContent('box3')">REMINDER</button>
                         <br>
-                        <button>NOTES</button>
+                        <button onclick="showContent('box4')">NOTES</button>
                     </div>
                 </div>
                 <div>
-                    <div class="to-do-container-box-1">
+                    <div class="to-do-container-box-1" id="box1">
                         <div>
                             <h3>TO-DO</h3>
                         </div>
@@ -121,7 +121,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="to-do-container-box-2">    
+                    <div class="to-do-container-box-2" id="box2">    
                         <div>
                             <h3>PRIORITIES</h3>
                         </div>
@@ -166,7 +166,7 @@
                         </div>
                     </div>    
                 </div>
-                <div class="to-do-container-box-3">
+                <div class="to-do-container-box-3" id="box3">
                     <div>
                         <h3>NOTES</h3>
                     </div>
@@ -182,7 +182,7 @@
                     <div>
                         <h3>REMINDER</h3>
                     </div>
-                    <div class="to-do-container-box-4-b">
+                    <div class="to-do-container-box-4-b" id="box4">
                         <form action="">
                             <textarea name="reminder" id="" cols="20" rows="20">
 

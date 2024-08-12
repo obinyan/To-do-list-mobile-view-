@@ -98,6 +98,10 @@
     display: none;
 }
 
+.to-do-container-box-2.active{
+    display: block;
+}
+
 .to-do-container-box-2 > div > h3{
     font-size: 20px;
     font-family: "Inter", sans-serif;
@@ -131,7 +135,9 @@
     margin-top: 30px;
     display: none;
 }
-.to-do-container-box-3.acti
+.to-do-container-box-3.active{
+    display: block;
+}
 
 .to-do-container-box-3 > div > h3{
     font-size: 20px;
@@ -147,6 +153,10 @@
 .to-do-container-box-4{
     margin-top: 30px;
     display: none;
+}
+
+.to-do-container-box-4.active{
+    display: block;
 }
 
 .to-do-container-box-4 > div > h3{
