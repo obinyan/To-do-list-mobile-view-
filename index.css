@@ -91,3 +91,70 @@
        width: 20px;
        height: 20px; 
 }
+
+/** styling the second box (priorities) **/
+.to-do-container-box-2{
+    margin-top: 30px;
+    display: none;
+}
+
+.to-do-container-box-2 > div > h3{
+    font-size: 20px;
+    font-family: "Inter", sans-serif;
+    margin-left: 45px;
+}
+
+.to-do-container-box-2-c{
+    border: #000000 solid;
+    width: 300px;
+    height: 600px;
+    margin-left: 25px;
+}
+
+.to-do-container-box-2-c > form{
+    display: flex;
+    flex-direction: row;
+    gap: -25px;
+    margin-top: 15px;
+}
+
+.to-do-container-box-2-c > form > input{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    margin-left: 25px;
+    
+}
+
+/** styling the third box (notes) **/
+.to-do-container-box-3{
+    margin-top: 30px;
+    display: none;
+}
+.to-do-container-box-3.acti
+
+.to-do-container-box-3 > div > h3{
+    font-size: 20px;
+    font-family: "Inter", sans-serif;
+    margin-left: 45px;
+}
+
+.to-do-container-box-3-b > form > textarea{
+    width: 100%;
+}
+
+/** styling the fourth box (notes) **/
+.to-do-container-box-4{
+    margin-top: 30px;
+    display: none;
+}
+
+.to-do-container-box-4 > div > h3{
+    font-size: 20px;
+    font-family: "Inter", sans-serif;
+    margin-left: 45px;
+}
+
+.to-do-container-box-4-b > form > textarea{
+    width: 100%;
+}
