@@ -51,6 +51,10 @@
 .to-do-container-button > div > button{
     background-color: #000000;
     color: #ffffff;
+    position: sticky;
+    top: 0;
+    background-color: white; /* Optional: to ensure the header has a background */
+    z-index: 1000;
 }
 
 /** styling for the first box (todo) **/
