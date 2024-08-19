@@ -51,6 +51,7 @@
 .to-do-container-button > div > button{
     background-color: #000000;
     color: #ffffff;
+    position: fixed;
 }
 
 /** styling for the first box (todo) **/
