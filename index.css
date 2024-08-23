@@ -47,16 +47,19 @@
     flex-direction: row;
     gap: 4px;
     position: sticky;
-    top: 2;
+    top: 0;
     
     z-index: 1000;
 }
 
-.to-do-container-button > div > a{
+.to-do-container-button > div{
     background-color: #000000;
-    color: #ffffff;
     width: 50px;
     height: 10px;
+}
+
+.to-do-container-button > div > a{
+    color: #ffffff;
     text-decoration: none;
 }
 
