@@ -83,7 +83,7 @@
 .to-do-container-box-1-b{
     border: #000000 solid;
     width: 300px;
-    height: 800px;
+    height: 600px;
     margin-left: 25px;
 }
 
@@ -183,4 +183,31 @@
 
 .to-do-container-box-4-b > form > textarea{
     width: 100%;
+}
+
+/** Desktop responsiveness **/
+
+@media only screen and (min-width: 768px) {
+    body{
+        width: 100vw;
+        background-color: #ffffff;
+    }
+
+    .to-do-container-heading > h1{
+        text-align: center;
+        font-size: 50px;
+        font-weight: bold;
+        color: #000000;
+    }
+
+    .to-do-container-month > div > h2{
+        text-align: center;
+        font-size: 30px;
+        font-weight: bold;
+        color: #000000;
+    }
+
+    .to-do-container-month > div > form{
+        margin-left: 20rem;
+    }
 }
