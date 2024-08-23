@@ -56,6 +56,7 @@
     background-color: #000000;
     color: #ffffff;
     width: 10px;
+    text-decoration: none;
 }
 
 /** styling for the first box (todo) **/
