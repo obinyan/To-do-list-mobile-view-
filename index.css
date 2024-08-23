@@ -45,7 +45,7 @@
     margin-left: 45px;
     display: flex;
     flex-direction: row;
-    gap: 5px;
+    gap: 4px;
     position: sticky;
     top: 0;
     
@@ -53,9 +53,9 @@
 }
 
 .to-do-container-button > div > a{
-    background-color: #ffffff;
-    color: #000000;
-    width: 20px;
+    background-color: #000000;
+    color: #ffffff;
+    width: 10px;
 }
 
 /** styling for the first box (todo) **/
