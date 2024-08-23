@@ -56,7 +56,8 @@
     width: 100px;
     height: 25px;
     align-content: center;
-    margin-left: 15px;
+    
+    text-align: center;
 }
 
 .to-do-container-button > div > a{
