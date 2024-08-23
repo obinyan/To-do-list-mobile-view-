@@ -39,7 +39,7 @@
 }
 
 /** styling for the nav-buttons **/
-.to-do-container-button > div{
+.to-do-container-button{
     border: #000000 5px;
     margin-top: 25px;
     margin-left: 45px;
@@ -55,7 +55,7 @@
 .to-do-container-button > div > a{
     background-color: #000000;
     color: #ffffff;
-    width: 10px;
+    width: 40px;
     text-decoration: none;
 }
 
