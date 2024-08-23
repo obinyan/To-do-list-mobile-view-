@@ -55,7 +55,8 @@
 .to-do-container-button > div > a{
     background-color: #000000;
     color: #ffffff;
-    width: 30px;
+    width: 10px;
+    text-decoration: none;
 }
 
 /** styling for the first box (todo) **/
