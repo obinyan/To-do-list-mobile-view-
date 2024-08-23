@@ -42,7 +42,7 @@
 .to-do-container-button{
     border: #000000 5px;
     margin-top: 25px;
-    margin-left: 37px;
+    margin-left: 34px;
     display: flex;
     flex-direction: row;
     gap: 4px;
@@ -54,13 +54,15 @@
 
 .to-do-container-button > div{
     background-color: #000000;
-    width: 50px;
-    height: 10px;
+    width: 60px;
+    height: 15px;
 }
 
 .to-do-container-button > div > a{
     color: #ffffff;
     text-decoration: none;
+    text-align: center;
+    align-content: center;
 }
 
 /** styling for the first box (todo) **/
