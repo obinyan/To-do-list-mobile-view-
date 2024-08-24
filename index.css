@@ -208,11 +208,11 @@
     }
 
     .to-do-container-month > div > form{
-        margin-left: 35rem;
+        margin-left: 40rem;
     }
 
     .to-do-container-month > div > form > input{
-        width: 100px;
+        width: 200px;
         height: 20px;
     }
 
@@ -220,10 +220,10 @@
         display: none;
     }
 
-    .to-do-container-box-2{
-        position: relative;
-        left: 30rem;
-        top: -20rem;
+    .to-do-container-box{
+        display: flex;
+        flex-direction: row;
+        gap: 10px;
     }
 
 }
