@@ -208,6 +208,18 @@
     }
 
     .to-do-container-month > div > form{
-        margin-left: 20rem;
+        margin-left: 35rem;
     }
+
+    .to-do-container-month > div > form > input{
+        width: 100px;
+        height: 20px;
+    }
+
+    .to-do-container-button{
+        display: none;
+    }
+
+    
+
 }
